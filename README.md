@@ -2,3 +2,7 @@
 
 Exercise on object-oriented programming, in a Pokémon battle on the terminal.  ![image](https://github.com/chonchax/pokemon_fight/assets/126770051/f08304c2-e3ad-4bce-a8a5-455528c167be)
 
+Clone the repository
+Run : node index.js
+Fight !
+
